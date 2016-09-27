@@ -35,6 +35,6 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk pressure](images/test-rmd-pictures-pressure-1.png)
+![plot of chunk pressure](../images/test-rmd-pictures-pressure-1.png)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
