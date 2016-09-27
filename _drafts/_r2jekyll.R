@@ -1,4 +1,4 @@
-knitr::opts_chunk$set(fig.path='images/test-rmd-pictures-')
+knitr::opts_chunk$set(fig.path='{{ site.url }}/images/test-rmd-pictures-')
 
 #!/usr/bin/env Rscript
 library(knitr)
@@ -18,8 +18,8 @@ output = paste0(dir, sub('.Rmd', '.md', filename))
 knit(filename, output)
 
 # Copy .png files to the images directory.
-fromdir = "images"
-todir = "../img"
+fromdir = "{{ site.url }}/images"
+todir = "../images"
 
 pics = list.files(fromdir, ".png")
 pics = sapply(pics, function(x) paste(fromdir, x, sep="/"))
