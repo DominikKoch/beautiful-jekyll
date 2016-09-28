@@ -1,14 +1,11 @@
-rm(list=ls())
-filename <- "rmd-to-md.Rmd"
-
-knitr::opts_chunk$set(fig.path=file.path('../img/blog/',paste(gsub(".Rmd","",filename),"-",sep="")))
+knitr::opts_chunk$set(fig.path='../img/blog/test-rmd-pictures-')
 
 #!/usr/bin/env Rscript
 library(knitr)
 
 # Get the filename given as an argument in the shell.
-#args = commandArgs(TRUE)
-#filename = args[1]
+args = commandArgs(TRUE)
+filename = args[1]
 
 # Check that it's a .Rmd file.
 if(!grepl(".Rmd", filename)) {
