@@ -35,11 +35,11 @@ I'm addicted to archery, volleyball, mixing great cocktails and meeting my frien
 <div id="contactme-section">
 <h1 id="contact">Contact</h1>
 
-
+<!--
 <div class="alert alert-danger" role="alert">
 I will be away until Sept 19 with absolutely no internet (or even cell phone signal!). I will try to reply to all my messages in the following week.
 </div>
-
+-->
 
 <p>You can <a href="mailto:dominik.w.koch@googlemail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">Linkedin</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
 
