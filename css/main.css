@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #404041;
+  color: #FB9701;
 }
 blockquote {
   color: #808080;
@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #404042;
+  background: #FB9701;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #404043;
+  background: #FB9701;
 }
 img::selection {
   color: white;
@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #FB9701;
+  background: #404041;
   border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #FB9701;
+  color: #404042;
 }
 
 @media only screen and (min-width: 768px) {
@@ -299,7 +299,7 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #FB9701;
+  color: #404043;
 }
 
 .post-preview .post-title {
@@ -531,8 +531,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #FB9701;
-  border: 1px solid #FB9701;
+  background: #404044;
+  border: 1px solid #404045;
 }
 
 .pager {
