@@ -10,14 +10,14 @@ css: "/css/aboutme.css"
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
 After graduating I was looking for new challenges in the world of <strong>Big Data</strong>.
-I'm working as a <strong>Senior Data Scientist</strong> at <a href="https://thinkbiganalytics.com/" target="_blank">Think Big</a>, a Teradata Company. As a data driven problem solver I contributed to the success of many different Data Science projects. Through these projects I also acquired an extensive knowledge of the automotive industry and in the banking sector.
+I found those at my current job as a <strong>Senior Data Scientist</strong> at <a href="https://thinkbiganalytics.com/" target="_blank">Think Big</a>, a Teradata Company. As a data driven problem solver I contributed to the success of many different Data Science projects. Through these projects I also acquired an extensive knowledge of the automotive industry and in the banking sector.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-Obtained both my MSc and BSc in <strong>statistics</strong> with distinction from the Ludwig-Maximilians University Munich (supervised by the amazing
+Obtained both my MSc and BSc in <strong>Statistics</strong> with distinction from the Ludwig-Maximilians University Munich (supervised by the amazing
 <a href="http://www.statistik.lmu.de/~tutz/" target="_blank">Gerhard Tutz</a>). My masters thesis project involved developing an 
-<a href="http://link.springer.com/article/10.1007/s11222-015-9588-z" target="_blank">Improved nearest neighbour classifier by weighting and selection of predictors</a>. This thesis was awarded the BestMasters prize by Springer. 
+<a href="http://link.springer.com/article/10.1007/s11222-015-9588-z" target="_blank">"Improved nearest neighbour classifier by weighting and selection of predictors"</a>. This thesis was awarded the BestMasters prize by Springer. 
 </p>
 
 <p class="about-text">
@@ -41,7 +41,7 @@ I will be away until Sept 19 with absolutely no internet (or even cell phone sig
 </div>
 -->
 
-<p>You can <a href="mailto:dominik.w.koch@googlemail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">Linkedin</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<p>You can <a href="mailto:dominik.w.koch@googlemail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">LinkedIn</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
 
 <form action="https://formspree.io/dominik.w.koch@googlemail.com" method="POST" class="form" id="contact-form">
   <p>You can also send me a quick message using the form below:</p>
