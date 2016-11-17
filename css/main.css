@@ -26,7 +26,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #FB9701;
+  color: #404041;
 }
 blockquote {
   color: #808080;
@@ -64,12 +64,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #FB9701;
+  background: #404042;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #FB9701;
+  background: #404043;
 }
 img::selection {
   color: white;
@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #404040;
+  color: #FB9701;
 }
 
 @media only screen and (min-width: 768px) {
