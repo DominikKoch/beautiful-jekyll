@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #FB9701;
+  color: #404040;
 }
 
 @media only screen and (min-width: 768px) {
