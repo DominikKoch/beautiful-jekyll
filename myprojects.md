@@ -9,7 +9,7 @@ css: "/css/materialize.css"
 	<div class="col s12 m6">
 	  <div class="card">
 		<div class="card-image">
-		  <img src="img/sample-1.jpg">
+		  <img src="../img/sample-1.jpg">
 		  <span class="card-title">Card Title</span>
 		  <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 		</div>
@@ -24,7 +24,7 @@ css: "/css/materialize.css"
 	<div class="col s12 m6">
 	  <div class="card">
 		<div class="card-image">
-		  <img src="img/sample-1.jpg">
+		  <img src="../img/sample-1.jpg">
 		  <span class="card-title">Card Title</span>
 		  <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
 		</div>
