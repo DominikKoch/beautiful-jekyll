@@ -18,4 +18,5 @@ css: "/css/aboutme.css"
   <div class="col s1">10</div>
   <div class="col s2">11</div>
   <div class="col s1">12</div>
+
 </div>
