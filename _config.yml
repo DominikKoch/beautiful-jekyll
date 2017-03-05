@@ -141,7 +141,6 @@ prose:
     - /_layouts
     - /_includes
     - /css
-	- /fonts
     - /img
     - /js
   metadata:
