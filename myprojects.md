@@ -64,14 +64,13 @@ css: "/css/materialize.css"
 		<a href="https://zachcp.github.io/phylocanvas/">
 		<img class="valign" src="
 		
-		  imag/404-southpark.jpg
+		  img/404-southpark.jpg
 		
 		"></a>
 		</div>
 	  </div>
 	  <div class="card-content widget-content">
 		<a href="https://zachcp.github.io/phylocanvas/"><span class="card-title grey-text text-darken-4">phylocanvas</span></a>
-		<span class="github-btn github-watchers" data-processed="1"><a class="gh-btn" href="https://github.com/zachcp/phylocanvas/" target="_blank"><span class="gh-ico"></span><span class="gh-text">Star</span></a><a class="gh-count" id="zachcp_phylocanvas" href="https://github.com/zachcp/phylocanvas/stargazers" target="_blank" style="display: block;"></a></span>
 		<p class="widget-shortdesc">An htmlwidgets binding for creating interactive phylogenetic trees.
 	</p>
 		<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">zachcp</a></span></p>
