@@ -9,7 +9,6 @@
 
 .materialize-red-text {
   color: #e51c23 !important;
-  font-family: "Roboto", sans-serif;
 }
 
 .materialize-red.lighten-5 {
@@ -650,7 +649,6 @@
 
 .blue-text {
   color: #2196F3 !important;
-  font-family: "Roboto", sans-serif;
 }
 
 .blue.lighten-5 {
@@ -1099,7 +1097,6 @@
 
 .green-text {
   color: #4CAF50 !important;
-  font-family: "Roboto", sans-serif;
 }
 
 .green.lighten-5 {
