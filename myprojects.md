@@ -73,9 +73,9 @@ css: "/css/materialize.css"
 		<a href="https://zachcp.github.io/phylocanvas/"><span class="card-title grey-text text-darken-4">phylocanvas</span></a>
 		<p class="widget-shortdesc">An htmlwidgets binding for creating interactive phylogenetic trees.
 	</p>
-		<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">author:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">zachcp</a></span></p>
+		<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">zachcp</a></span></p>
 		<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">phylogenetics, trees, biology</span></p>
-		<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">js libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">phylocanvas</a>
+		<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">phylocanvas</a>
 	</span></p>
 		<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 		<div class="hidden widget-cran">true</div>
