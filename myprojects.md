@@ -11,7 +11,17 @@ css: "/css/materialize.css"
   <form class="col s12">
 	<div class="row">
 	  
- 
+	  <div class="input-field col s2">
+		<!-- <i class="material-icons prefix">sort_by_alpha</i> -->
+		<select id="gridsort">
+		  <option value="name">Name</option>
+		  <!-- <option value="author">Author</option> -->
+		  <!-- <option value="stars" selected>Github stars</option> -->
+		  <!-- <option value="stars">Github stars</option> -->
+		</select>
+		<label>Sort</label>
+	  </div>
+	  
 	  <div class="input-field col s2">
 		<!-- <i class="material-icons prefix">search</i> -->
 		<input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
@@ -35,7 +45,7 @@ css: "/css/materialize.css"
 		</select>
 		<label>Tag Filter</label>
 	  </div>
-	    
+	  
 	</div>
   </form>
 </div>
