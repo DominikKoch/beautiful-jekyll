@@ -96,7 +96,7 @@ css: "/css/materialize.css"
 			<a href="https://zachcp.github.io/phylocanvas/">
 			<img class="valign" src="
 			
-			  /img/404-southpark.jpg
+			  /img/Unbenannt.png
 			
 			"></a>
 			</div>
