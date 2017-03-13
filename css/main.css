@@ -737,5 +737,10 @@ td.gutter {
   display: none;
 }
 
+.gallery{
+  margin: 0 auto;
+  max-width: 2560px;
+  width: 90%;
+}
 
 

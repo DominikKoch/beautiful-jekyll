@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 title: My Projects
 subtitle: These projects eat my spare time
 css: "/css/materialize.css"
@@ -58,11 +58,6 @@ css: "/css/materialize.css"
 </div>
 
 <div class="main-container">
-	<div class="container">
-		<div class="row">
-		  Showing <span id="shown-widgets"></span> of 81
-		</div>
-	</div>
 	<div class="row" id="grid">
 
 		<div class="card grid-item" data-author="zachcp">
