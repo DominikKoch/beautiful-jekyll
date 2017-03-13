@@ -11,19 +11,7 @@ css: "/css/materialize.css"
   <form class="col s12">
 	<div class="row">
 	  
-	  <!-- 
-	  <div class="input-field col s2">
-		<!-- <i class="material-icons prefix">sort_by_alpha</i> -->
-		<select id="gridsort">
-		  <option value="name">Name</option>
-		  <option value="author">Author</option>
-		  <option value="stars" selected>Github stars</option>
-		  <!-- <option value="stars">Github stars</option> -->
-		</select>
-		<label>Sort</label>
-	  </div>
-	  -->
-	  
+ 
 	  <div class="input-field col s2">
 		<!-- <i class="material-icons prefix">search</i> -->
 		<input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
@@ -47,21 +35,7 @@ css: "/css/materialize.css"
 		</select>
 		<label>Tag Filter</label>
 	  </div>
-	  
-	  <!-- 
-	  <div class="col s2">
-		<div class="switch-label tooltipped" data-position="top" data-delay="10" data-tooltip="Show/hide widgets not yet on CRAN"><label>CRAN Only</label></div>
-		<div class="switch cran-switch">
-		  <label>
-			<!-- Off -->
-			<input id="crancheckbox" checked type="checkbox">
-			<span class="lever"></span>
-			<!-- On -->
-		  </label>
-		</div>
-	  </div>
-	  -->
-	  
+	    
 	</div>
   </form>
 </div>
