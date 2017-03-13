@@ -70,7 +70,7 @@ css: "/css/materialize.css"
 			<p class="widget-shortdesc">An htmlwidgets binding for creating interactive phylogenetic trees.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">zachcp</a></span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">phylogenetics, trees, biology</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">phylogenetics,trees,biology</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">phylocanvas</a>
 		</span></p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
@@ -130,7 +130,7 @@ css: "/css/materialize.css"
 			<p class="widget-shortdesc"> Let's check the linebreak and the container size.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">Michal</a></span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">trees, tomatoes</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">trees,tomatoes</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">test</a>
 		</span></p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
