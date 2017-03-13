@@ -743,4 +743,10 @@ td.gutter {
   width: 90% !important;
 }
 
+.filter{
+  width: 80% !important;
+  text-align: left !important;
+  font-family: "Roboto", sans-serif !important;
+}
+
 

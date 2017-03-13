@@ -6,7 +6,7 @@ css: "/css/materialize.css"
 ---
 
 
-<div class="container center">
+<div class="container center filter">
 <div class="row">
   <form class="col s12">
 	<div class="row">
@@ -22,9 +22,9 @@ css: "/css/materialize.css"
 		<label>Sort</label>
 	  </div>
 	  
-	  <div class="input-field col s2">
+	  <div class="input-field col s4">
 		<!-- <i class="material-icons prefix">search</i> -->
-		<input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
+		<input type="text" id="textfilter" class="validate" placeholder="name, tag, description">
 		<label>Text Filter</label>
 	  </div>
 	  
