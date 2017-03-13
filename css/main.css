@@ -739,8 +739,8 @@ td.gutter {
 
 .gallery{
   margin: 0 auto;
-  max-width: 2560px;
-  width: 90%;
+  max-width: 2560px !important;
+  width: 90% !important;
 }
 
 
