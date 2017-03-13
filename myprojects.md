@@ -10,6 +10,8 @@ css: "/css/materialize.css"
 <div class="row">
   <form class="col s12">
 	<div class="row">
+	  
+	  <!-- 
 	  <div class="input-field col s2">
 		<!-- <i class="material-icons prefix">sort_by_alpha</i> -->
 		<select id="gridsort">
@@ -20,11 +22,14 @@ css: "/css/materialize.css"
 		</select>
 		<label>Sort</label>
 	  </div>
+	  -->
+	  
 	  <div class="input-field col s2">
 		<!-- <i class="material-icons prefix">search</i> -->
 		<input type="text" id="textfilter" class="validate" placeholder="search name, author, description">
 		<label>Text Filter</label>
 	  </div>
+	  
 	  <div class="input-field col s3">
 		<!-- <i class="material-icons prefix">sort_by_alpha</i> -->
 		<select id="authorfilter">
@@ -33,6 +38,7 @@ css: "/css/materialize.css"
 		</select>
 		<label>Author Filter</label>
 	  </div>
+	  
 	  <div class="input-field col s3">
 		<!-- <i class="material-icons prefix">sort_by_alpha</i> -->
 		<select id="tagfilter">
@@ -41,6 +47,8 @@ css: "/css/materialize.css"
 		</select>
 		<label>Tag Filter</label>
 	  </div>
+	  
+	  <!-- 
 	  <div class="col s2">
 		<div class="switch-label tooltipped" data-position="top" data-delay="10" data-tooltip="Show/hide widgets not yet on CRAN"><label>CRAN Only</label></div>
 		<div class="switch cran-switch">
@@ -52,6 +60,8 @@ css: "/css/materialize.css"
 		  </label>
 		</div>
 	  </div>
+	  -->
+	  
 	</div>
   </form>
 </div>
