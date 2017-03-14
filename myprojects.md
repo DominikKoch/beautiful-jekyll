@@ -1,6 +1,6 @@
 ---
 layout: gallery
-title: My Projects
+title: My projects
 subtitle: These projects eat my spare time
 css: "/css/materialize.css"
 ---

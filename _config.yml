@@ -23,10 +23,7 @@ description: Portfolio!
 
 # List of links in the navigation bar
 navbar-links:
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Blog: ""
   About Me: "aboutme"
   Projects: "myprojects"
 
