@@ -90,7 +90,7 @@ css: "/css/materialize.css"
 			<a href="https://zachcp.github.io/phylocanvas/">
 			<img class="valign" src="
 			
-			  /img/Unbenannt.png
+			  /img/calendarHeatmap.png
 			
 			"></a>
 			</div>
