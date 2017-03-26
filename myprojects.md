@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: My projects
-subtitle: These projects eat my spare time
+subtitle: A collection of nice visualisations and useful code snippets
 css: "/css/materialize.css"
 ---
 
@@ -96,18 +96,18 @@ css: "/css/materialize.css"
 			</div>
 		  </div>
 		  <div class="card-content widget-content">
-			<a href="https://zachcp.github.io/phylocanvas/"><span class="card-title grey-text text-darken-4">Test</span></a>
-			<p class="widget-shortdesc">Lorem Ipsum
+			<a href="https://zachcp.github.io/phylocanvas/"><span class="card-title grey-text text-darken-4">Calendar Heatmap</span></a>
+			<p class="widget-shortdesc">Visualise time series data in calendar style
 		</p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">Dominik</a></span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">new</span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">aaa</a>
-		</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">ggplot2</span>
+		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
 		  </div>
 		  <div class="card-reveal" style="display: none; -webkit-transform: translateY(0px);">
-			<span class="card-title grey-text text-darken-4">Test<i class="material-icons right">close</i></span>
+			<span class="card-title grey-text text-darken-4">Calendar Heatmap<i class="material-icons right">close</i></span>
 			<p>(full meta data to go here)</p>
 			</div>
 		</div>
