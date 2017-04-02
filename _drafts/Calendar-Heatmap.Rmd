@@ -201,10 +201,10 @@ calendarHeatmap <- function(dates, values, title = "", subtitle = "", legendtitl
 
 ## Example
 
-In the following example I visualise Apple's stock price starting from 2014 with the help of [Yahoo Finance API](https://de.finance.yahoo.com/quote/AAPL?ltr=1).
+In the following example I visualise Microsoft's stock price starting from 2014 with the help of [Yahoo Finance API](https://de.finance.yahoo.com/quote/AAPL?ltr=1).
 
-```{r eval = TRUE, message = FALSE, warning = FALSE}
-stock <- "AAPL"
+```{r eval = TRUE, fig.height=7, fig.width=9, message=FALSE, warning=FALSE}
+stock <- "MSFT"
 start.date <- "2014-00-01" # workaround for a small bug with the month extraction
 end.date <- Sys.Date()
 quote <- paste("http://ichart.finance.yahoo.com/table.csv?s=",
@@ -223,7 +223,7 @@ require(lubridate)
 dates <- ymd(stock.data$Date)
 values <- stock.data$Adj.Close
 
-calendarHeatmap(dates, values, title = "Here comes the title", subtitle = "And here is the subtitle", legendtitle = "Legend title")
+calendarHeatmap(dates, values, title = "Microsoft Stock Price", subtitle = "Yahoo Finance API", legendtitle = "Price")
 ```
 
 ## SessionInfo

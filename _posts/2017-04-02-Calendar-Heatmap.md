@@ -200,11 +200,11 @@ calendarHeatmap <- function(dates, values, title = "", subtitle = "", legendtitl
 
 ## Example
 
-In the following example I visualise Apple's stock price starting from 2014 with the help of [Yahoo Finance API](https://de.finance.yahoo.com/quote/AAPL?ltr=1).
+In the following example I visualise Microsoft's stock price starting from 2014 with the help of [Yahoo Finance API](https://de.finance.yahoo.com/quote/AAPL?ltr=1).
 
 
 ```r
-stock <- "AAPL"
+stock <- "MSFT"
 start.date <- "2014-00-01" # workaround for a small bug with the month extraction
 end.date <- Sys.Date()
 quote <- paste("http://ichart.finance.yahoo.com/table.csv?s=",
@@ -223,7 +223,7 @@ require(lubridate)
 dates <- ymd(stock.data$Date)
 values <- stock.data$Adj.Close
 
-calendarHeatmap(dates, values, title = "Here comes the title", subtitle = "And here is the subtitle", legendtitle = "Legend title")
+calendarHeatmap(dates, values, title = "Microsoft Stock Price", subtitle = "Yahoo Finance API", legendtitle = "Price")
 ```
 
 ![plot of chunk unnamed-chunk-2](../img/blog//Calendar-Heatmap-unnamed-chunk-2-1.png)
@@ -245,12 +245,13 @@ calendarHeatmap(dates, values, title = "Here comes the title", subtitle = "And h
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-## [1] ggplot2_2.2.1   lubridate_1.6.0 knitr_1.14     
+## [1] lubridate_1.6.0 knitr_1.14      ggplot2_2.2.1  
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] Rcpp_0.12.6      digest_0.6.9     assertthat_0.1   grid_3.3.1      
-##  [5] plyr_1.8.4       gtable_0.2.0     formatR_1.4      magrittr_1.5    
-##  [9] evaluate_0.9     scales_0.4.1     stringi_1.1.1    lazyeval_0.2.0  
-## [13] labeling_0.3     tools_3.3.1      stringr_1.0.0    munsell_0.4.3   
-## [17] colorspace_1.2-6 tibble_1.1
+##  [1] Rcpp_0.12.6      digest_0.6.9     rprojroot_1.0-2  assertthat_0.1  
+##  [5] grid_3.3.1       plyr_1.8.4       gtable_0.2.0     formatR_1.4     
+##  [9] magrittr_1.5     evaluate_0.9     scales_0.4.1     stringi_1.1.1   
+## [13] lazyeval_0.2.0   rmarkdown_1.4    labeling_0.3     tools_3.3.1     
+## [17] stringr_1.0.0    munsell_0.4.3    yaml_2.1.13      colorspace_1.2-6
+## [21] htmltools_0.3.5  tibble_1.1
 ```
