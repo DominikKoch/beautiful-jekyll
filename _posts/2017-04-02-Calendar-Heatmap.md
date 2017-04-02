@@ -19,7 +19,7 @@ Being always a big fan of [Hadley Wickham's](http://hadley.nz/) ggplot2 I wanted
 ## Code
 
 
-```r
+{% highlight r linenos %}
 #' Calendar Heatmap
 #' 
 #' Creates a colour coded calendar visualising time series data
@@ -196,7 +196,7 @@ calendarHeatmap <- function(dates, values, title = "", subtitle = "", legendtitl
   
   return(g)
 }
-```
+{% endhighlight %}
 
 ## Example
 
