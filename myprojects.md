@@ -1,7 +1,7 @@
 ---
 layout: gallery
 title: My projects
-subtitle: A collection of nice visualisations and useful code snippets
+subtitle: A collection of nice visualisations, algorithms and useful code snippets
 css: "/css/materialize.css"
 ---
 
@@ -34,7 +34,7 @@ css: "/css/materialize.css"
 		  <option value="" selected>&nbsp;</option>
 		  <!-- <option value="author">Author</option> -->
 		</select>
-		<label>Author Filter</label>
+		<label>Type Filter</label>
 	  </div>
 	  
 	  <div class="input-field col s3">
