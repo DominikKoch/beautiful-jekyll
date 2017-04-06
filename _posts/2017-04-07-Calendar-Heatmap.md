@@ -3,7 +3,7 @@ layout: post
 title: Calendar Heatmap
 subtitle: Visualise time series data in calendar style
 tags: [time-series, calendar, heatmap]
-share-img: /img/start.jpg
+share-img: /img/calendarHeatmap.png
 output:
   md_document
 ---
