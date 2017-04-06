@@ -2,6 +2,8 @@
 layout: post
 title: Calendar Heatmap
 subtitle: Visualise time series data in calendar style
+tags: [time-series, calendar, heatmap]
+share-img: /img/calendarHeatmap.png
 output:
   md_document
 ---
@@ -14,7 +16,7 @@ Nowadays you can find calendar heatmaps on every GitHub profile. The first time 
 
 Being always a big fan of [Hadley Wickham's](http://hadley.nz/) ggplot2 I wanted to implement my own calendar heatmap version in ggplot2. For plotting your own time-series you only need the [ggplot2 package](http://ggplot2.org/) and the following function. The [lubridate package](https://cran.r-project.org/web/packages/lubridate/index.html) might come in handy to transform the dates. One nice feature of my solution is that you can adjust the ggplot object as you like.
 
-## Sneak Preview
+## Preview
 
 ![](https://github.com/DominikKoch/dominikkoch.github.io/blob/master/img/calendarHeatmap.png?raw=true)
 
