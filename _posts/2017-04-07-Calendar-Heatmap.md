@@ -12,7 +12,7 @@ Nowadays you can find calendar heatmaps on every GitHub profile. The first time 
 
 Being always a big fan of [Hadley Wickham's](http://hadley.nz/) ggplot2 I wanted to implement my own calendar heatmap version in ggplot2. For plotting your own time-series you only need the [ggplot2 package](http://ggplot2.org/) and the following function. The [lubridate package](https://cran.r-project.org/web/packages/lubridate/index.html) might come in handy to transform the dates. One nice feature of my solution is that you can adjust the ggplot object as you like.
 
-## Sneak Preview
+## Preview
 
 ![](https://github.com/DominikKoch/dominikkoch.github.io/blob/master/img/calendarHeatmap.png?raw=true)
 
@@ -245,11 +245,11 @@ calendarHeatmap(dates, values, title = "Microsoft Stock Price", subtitle = "Yaho
 ## [1] stats     graphics  grDevices utils     datasets  methods   base     
 ## 
 ## other attached packages:
-## [1] lubridate_1.6.0 knitr_1.14      ggplot2_2.2.1  
+## [1] ggplot2_2.2.1   lubridate_1.6.0 knitr_1.14     
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] Rcpp_0.12.6      digest_0.6.9     rprojroot_1.0-2  assertthat_0.1  
-##  [5] grid_3.3.1       plyr_1.8.4       gtable_0.2.0     formatR_1.4     
+##  [1] Rcpp_0.12.6      assertthat_0.1   digest_0.6.9     rprojroot_1.0-2 
+##  [5] plyr_1.8.4       grid_3.3.1       gtable_0.2.0     formatR_1.4     
 ##  [9] magrittr_1.5     evaluate_0.9     scales_0.4.1     stringi_1.1.1   
 ## [13] lazyeval_0.2.0   rmarkdown_1.4    labeling_0.3     tools_3.3.1     
 ## [17] stringr_1.0.0    munsell_0.4.3    yaml_2.1.13      colorspace_1.2-6
