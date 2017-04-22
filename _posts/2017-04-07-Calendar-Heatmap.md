@@ -4,6 +4,7 @@ title: Calendar Heatmap
 subtitle: Visualise time series data in calendar style
 tags: [time-series, calendar, heatmap]
 share-img: /img/calendarHeatmap.png
+permalink: /Calendar-Heatmap/
 output:
   md_document
 ---

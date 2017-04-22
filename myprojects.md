@@ -87,7 +87,7 @@ css: "/css/materialize.css"
 		<div class="card grid-item" data-author="dominik">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
-			<a href="https://dominikkoch.github.io/2017-04-07-Calendar-Heatmap/">
+			<a href="https://dominikkoch.github.io/Calendar-Heatmap/">
 			<img class="valign" src="
 			
 			  /img/calendarHeatmap.png
@@ -96,7 +96,7 @@ css: "/css/materialize.css"
 			</div>
 		  </div>
 		  <div class="card-content widget-content">
-			<a href="https://dominikkoch.github.io/2017-04-07-Calendar-Heatmap/"><span class="card-title grey-text text-darken-4">Calendar Heatmap</span></a>
+			<a href="https://dominikkoch.github.io/Calendar-Heatmap/"><span class="card-title grey-text text-darken-4">Calendar Heatmap</span></a>
 			<p class="widget-shortdesc">Visualise time series data in calendar style
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
