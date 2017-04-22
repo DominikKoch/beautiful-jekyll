@@ -87,7 +87,7 @@ css: "/css/materialize.css"
 		<div class="card grid-item" data-author="dominik">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
-			<a href="https://zachcp.github.io/phylocanvas/">
+			<a href="https://dominikkoch.github.io/2017-04-07-Calendar-Heatmap/">
 			<img class="valign" src="
 			
 			  /img/calendarHeatmap.png
