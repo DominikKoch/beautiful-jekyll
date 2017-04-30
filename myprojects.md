@@ -67,7 +67,7 @@ css: "/css/materialize.css"
 		  </div>
 		  <div class="card-content widget-content">
 			<a href="https://christophergandrud.github.io/networkD3/#sankey"><span class="card-title grey-text text-darken-4">Sankey Diagram</span></a>
-			<p class="widget-shortdesc">Visualise interactive path data.
+			<p class="widget-shortdesc">Visualise path data in an interactive flow diagram.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">network-graphs</span></p>
