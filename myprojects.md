@@ -54,7 +54,7 @@ css: "/css/materialize.css"
 <div class="main-container">
 	<div class="row" id="grid">
 
-		<div class="card grid-item" data-author="zachcp">
+		<div class="card grid-item" data-author="christopher-gandrud">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
 			<a href="https://christophergandrud.github.io/networkD3/#sankey">
@@ -67,12 +67,12 @@ css: "/css/materialize.css"
 		  </div>
 		  <div class="card-content widget-content">
 			<a href="https://christophergandrud.github.io/networkD3/#sankey"><span class="card-title grey-text text-darken-4">Sankey Diagram</span></a>
-			<p class="widget-shortdesc">An htmlwidgets binding for creating interactive phylogenetic trees.
+			<p class="widget-shortdesc">Visualise interactive path data.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">network-graphs</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">networkD3</span>
-		</span></p>
+		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
 		  </div>
@@ -84,7 +84,7 @@ css: "/css/materialize.css"
 		
 		<!-- second card -->
 		
-		<div class="card grid-item" data-author="dominik">
+		<div class="card grid-item" data-author="dominik-koch">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
 			<a href="https://dominikkoch.github.io/Calendar-Heatmap/">
@@ -97,7 +97,7 @@ css: "/css/materialize.css"
 		  </div>
 		  <div class="card-content widget-content">
 			<a href="https://dominikkoch.github.io/Calendar-Heatmap/"><span class="card-title grey-text text-darken-4">Calendar Heatmap</span></a>
-			<p class="widget-shortdesc">Visualise time series data in calendar style
+			<p class="widget-shortdesc">Visualise time series data in calendar style.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series</span></p>
