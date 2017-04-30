@@ -57,7 +57,7 @@ css: "/css/materialize.css"
 		<div class="card grid-item" data-author="zachcp">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
-			<a href="https://zachcp.github.io/phylocanvas/">
+			<a href="https://christophergandrud.github.io/networkD3/#sankey">
 			<img class="valign" src="
 			
 			  /img/sankey.png
@@ -66,12 +66,12 @@ css: "/css/materialize.css"
 			</div>
 		  </div>
 		  <div class="card-content widget-content">
-			<a href="https://zachcp.github.io/phylocanvas/"><span class="card-title grey-text text-darken-4">phylocanvas</span></a>
+			<a href="https://christophergandrud.github.io/networkD3/#sankey"><span class="card-title grey-text text-darken-4">Sankey Diagram</span></a>
 			<p class="widget-shortdesc">An htmlwidgets binding for creating interactive phylogenetic trees.
 		</p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta"><a href="https://github.com/zachcp">zachcp</a></span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">phylogenetics,trees,biology</span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta"><a href="https://github.com/phylocanvas">phylocanvas</a>
+			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">network-graphs</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">networkD3</span>
 		</span></p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
