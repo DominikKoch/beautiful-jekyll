@@ -3,7 +3,7 @@ $( function() {
   // count number of authors to populate dropdown
   // and key it so it can be alphabetized by author
   var widget_authors = {};
-  $('.widget-author > a').each(function() {
+  $('.widget-author').each(function() {
     var cur_author = $(this).html();
     var lcur_author = cur_author.toLowerCase();
     if(widget_authors[lcur_author] === undefined)
