@@ -138,7 +138,7 @@ $( function() {
       var textBool = true;
       if(textVal !== '') {
         qsRegex = new RegExp( textVal, 'gi' );
-        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author > a').html() + " " + $(this).find('.widget-shortdesc').html();
+        curText = $(this).find('.card-title').html() + " " + $(this).find('.widget-author').html() + " " + $(this).find('.widget-tags').html() + " " + $(this).find('.widget-shortdesc').html();
         textBool = qsRegex.test(curText);
       }
 
@@ -155,7 +155,7 @@ $( function() {
       var authorBool = true;
       if(! (authorVal === '' || authorVal === null)) {
         authorBool = false;
-        authorBool = $(this).find('.widget-author > a').html() == authorVal;
+        authorBool = $(this).find('.widget-author').html() == authorVal;
       }
 
       var cranBool = $(this).find('.widget-cran').html() === "true";
