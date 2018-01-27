@@ -117,10 +117,10 @@ css: "/css/materialize.css"
 		<div class="card grid-item" data-author="dominik-koch">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
-			<a href="https://zachcp.github.io/phylocanvas/">
+			<a href="https://datascience42.shinyapps.io/terrorism/">
 			<img class="valign" src="
 			
-			  /img/Global-Terrorism.jpg
+			  /img/Global-Terrorism.png
 			
 			"></a>
 			</div>
@@ -130,8 +130,8 @@ css: "/css/materialize.css"
 			<p class="widget-shortdesc"> Highlight global terrorism on an interactive map.
 		</p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Dashboard</span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">maps,webGL-globe,time-series</span></p>
-			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">shiny,leaflet,shinyGlobe,timevis</span>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">interactive-maps,time-series</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">shiny,leaflet,timevis</span>
 		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
