@@ -10,7 +10,7 @@ css: "/css/aboutme.css"
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
 After graduating I was looking for new challenges in the world of <strong>Big Data</strong>.
-I found those at my current job as a <strong>Senior Data Scientist</strong> at <a href="https://thinkbiganalytics.com/" target="_blank">Think Big</a>, a Teradata Company. As a data driven problem solver I contributed to the success of many different Data Science projects. Through these projects I also acquired an extensive knowledge of the automotive industry and in the banking sector.
+I found those at my current job as a <strong>Principal Data Scientist</strong> at <a href="https://thinkbiganalytics.com/" target="_blank">Think Big</a>, a Teradata Company. As a data driven problem solver I contributed to the success of many different Data Science projects. Through these projects I also acquired an extensive knowledge of the automotive industry and in the banking sector.
 </p>
 
 <p class="about-text">
