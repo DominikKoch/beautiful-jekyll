@@ -1,0 +1,7 @@
+1. search image
+2. inkscape: vectorize image
+3. delete all nodes in the image
+4. contour = black, fill = NA
+5. import background png
+6. select both
+7. object > clip > set

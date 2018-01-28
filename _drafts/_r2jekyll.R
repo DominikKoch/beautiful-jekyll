@@ -1,5 +1,5 @@
 rm(list=ls())
-filename <- "rmd-to-md.Rmd"
+filename <- "Calendar-Heatmap.Rmd"
 
 knitr::opts_chunk$set(fig.path=file.path('../img/blog/',paste(gsub(".Rmd","",filename),"-",sep="")))
 
