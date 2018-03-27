@@ -18,7 +18,7 @@ Additional information for every incident can be invoked via a popup by clicking
 
 Only by looking at all the data at once, you will realize the full extent of global terrorism.
 
-![](https://github.com/DominikKoch/dominikkoch.github.io/blob/master/img/Global-Terrorism-Map.png.png?raw=true)
+![](https://github.com/DominikKoch/dominikkoch.github.io/blob/master/img/Global-Terrorism-Map.png?raw=true)
 
 [Global Terrorism - Rshiny Dashboard](https://datascience42.shinyapps.io/terrorism/)   
 [Global Terrorism - GitHub Repository](https://github.com/DominikKoch/Terrorism)
