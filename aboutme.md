@@ -22,7 +22,7 @@ Obtained both my MSc and BSc in <strong>Statistics</strong> with distinction fro
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I enjoy developing R-Shiny dashboards. In the past several years I've become an experienced <strong>R useR</strong> and an expert in <strong>R-Shiny</strong>. While working with Big Data I love using the power of <strong>Spark</strong>.
+I enjoy developing R-Shiny dashboards. In the past several years I've become an experienced <strong>R useR</strong> and an expert in <strong>R-Shiny</strong>. While working with Big Data I love using the power of <strong>Spark</strong>. My blog posts are also published at <a href="https://www.r-bloggers.com/" target="_blank">R-bloggers</a> where you will find daily news and tutorials about R.
 </p>
 
 <p class="about-text">
