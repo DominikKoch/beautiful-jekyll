@@ -17,7 +17,7 @@ baseurl: ""
 title: Data Science 42
 
 # Short description of your site
-description: A collection of re-usable R scripts and to showcase my project portfolio
+description: A collection of re-usable R scripts and Shiny Applications to showcase my project portfolio
 
 # --- Navigation bar options --- #
 
