@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dominik Koch
+title: Data Science 42
 
 # Short description of your site
-description: Portfolio!
+description: A collection of re-usable R scripts and to showcase my project portfolio
 
 # --- Navigation bar options --- #
 
@@ -37,7 +37,7 @@ avatar: "/img/avatar.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Dominik Koch
-  email: "dominik.w.koch@googlemail.com"
+  email: "data42science@gmail.com"
   github: DominikKoch    # eg. daattali
   #facebook: yourname   # eg. daattali
   #twitter: yourname   # eg. daattali
