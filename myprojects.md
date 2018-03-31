@@ -141,6 +141,36 @@ css: "/css/materialize.css"
 			<p>(full meta data to go here)</p>
 			</div>
 		</div>
+		
+		<!-- card: Bump chart -->
+		
+		<div class="card grid-item" data-author="dominik-koch">
+		  <div class="card-image waves-effect waves-block waves-light">
+			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
+			<a href="https://dominikkoch.github.io/Bump-Chart/">
+			<img class="valign" src="
+			
+			  /img/bumpChart_clean.png
+			
+			"></a>
+			</div>
+		  </div>
+		  <div class="card-content widget-content">
+			<a href="https://dominikkoch.github.io/Bump-Chart/"><span class="card-title grey-text text-darken-4">Bump Chart</span></a>
+			<p class="widget-shortdesc"> Track performance over time.
+		</p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series,ranking</span></p>
+			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">ggplot2,ggflags</span>
+		</p>
+			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
+			<div class="hidden widget-cran">true</div>
+		  </div>
+		  <div class="card-reveal" style="display: none; -webkit-transform: translateY(0px);">
+			<span class="card-title grey-text text-darken-4">Bump Chart<i class="material-icons right">close</i></span>
+			<p>(full meta data to go here)</p>
+			</div>
+		</div>
 
 	</div>
 </div>
