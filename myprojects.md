@@ -54,6 +54,8 @@ css: "/css/materialize.css"
 <div class="main-container">
 	<div class="row" id="grid">
 
+		<!-- card: test -->
+	
 		<div class="card grid-item" data-author="christopher-gandrud">
 		  <div class="card-image waves-effect waves-block waves-light">
 			<div style="width:350px; height:300px; padding:3px;" class="valign-wrapper">
@@ -82,7 +84,7 @@ css: "/css/materialize.css"
 			</div>
 		</div>
 		
-		<!-- second card -->
+		<!-- card: Calendar Heatmap -->
 		
 		<div class="card grid-item" data-author="dominik-koch">
 		  <div class="card-image waves-effect waves-block waves-light">
@@ -112,7 +114,7 @@ css: "/css/materialize.css"
 			</div>
 		</div>
 		
-		<!-- third test card -->
+		<!-- card: Global Terrorism -->
 		
 		<div class="card grid-item" data-author="dominik-koch">
 		  <div class="card-image waves-effect waves-block waves-light">
@@ -142,7 +144,7 @@ css: "/css/materialize.css"
 			</div>
 		</div>
 		
-		<!-- card: Bump chart -->
+		<!-- card: Bump Chart -->
 		
 		<div class="card grid-item" data-author="dominik-koch">
 		  <div class="card-image waves-effect waves-block waves-light">
@@ -157,8 +159,9 @@ css: "/css/materialize.css"
 		  </div>
 		  <div class="card-content widget-content">
 			<a href="https://dominikkoch.github.io/Bump-Chart/"><span class="card-title grey-text text-darken-4">Bump Chart</span></a>
-			<p class="widget-shortdesc"> Track performance over time.
-		</p>
+			<p class="widget-shortdesc"> Track performance over time.</p>
+			<br>
+			
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series,ranking</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">ggplot2,ggflags</span>
