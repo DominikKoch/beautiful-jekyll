@@ -2,6 +2,7 @@
 layout: post
 title: Bump Chart
 subtitle: Track performance over time
+tags: [R, time-series, ranking]
 share-img: /img/bumpChart_clean.png
 permalink: /Bump-Chart/
 output:
