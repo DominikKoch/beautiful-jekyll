@@ -4,6 +4,7 @@ title: Bump Chart
 subtitle: Track performance over time
 tags: [time-series, ranking]
 share-img: /img/bumpChart_clean.png
+permalink: /Bump-Chart/
 output:
   md_document
 ---
@@ -14,7 +15,7 @@ A **Bump Chart** is a special form of a line plot. This kind of plot is designed
 
 Such visualisation can be used to track the leaderboard in soccer or the medal table in tournaments. I will use data from the recent [Olympic Winter Games in PyeongChang](https://www.pyeongchang2018.com/en/index) to demonstrate the power of the Bump Chart.
 
-**Required data: **
+**Required data**
 
 * data.frame with ranking of every individual over time. All individuals have to be ranked at the same point in time.
 

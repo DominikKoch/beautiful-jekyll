@@ -4,6 +4,7 @@ title: Global Terrorism
 subtitle: A threat to humanity
 tags: [R, RShiny]
 share-img: /img/Global-Terrorism.png
+permalink: /Global-Terrorism/
 output:
   md_document
 ---
