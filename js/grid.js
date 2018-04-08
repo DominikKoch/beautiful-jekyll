@@ -62,6 +62,14 @@ $( function() {
         var name = $( itemElem ).find('.card-title').text();
         return name.toLowerCase();
       },
+	  type: function( itemElem ) {
+        var type = $( itemElem ).find('.widget-author').text();
+        return type.toLowerCase();
+      },
+	  release: function( itemElem ) {
+        var release = $( itemElem ).find('.widget-release-nr').text();
+        return release;
+      },
       stars: function( itemElem ) {
         var stars = -parseInt($( itemElem ).find(".gh-count").html());
         return stars;
