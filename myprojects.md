@@ -76,7 +76,7 @@ css: "/css/materialize.css"
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">network-graphs</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">networkD3</span>
-			<span class="widget-release-nr">99</span></p>
+			<span class="widget-release-nr">99</span>
 		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
@@ -107,7 +107,7 @@ css: "/css/materialize.css"
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">ggplot2</span>
-			<span class="widget-release-nr">1</span></p>
+			<span class="widget-release-nr">1</span>
 		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
@@ -138,7 +138,7 @@ css: "/css/materialize.css"
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Dashboard</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">interactive-maps,time-series</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">shiny,leaflet,timevis</span>
-			<span class="widget-release-nr">2</span></p>
+			<span class="widget-release-nr">2</span>
 		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
@@ -170,7 +170,7 @@ css: "/css/materialize.css"
 			<p class="widget-list-item"><i class="material-icons meta-bullet red-text">stop</i><span class="red-text">type:</span> <span class="widget-author widget-meta">Visualisation</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet green-text">stop</i><span class="green-text">tags:</span> <span class="widget-tags widget-meta">time-series,ranking</span></p>
 			<p class="widget-list-item"><i class="material-icons meta-bullet blue-text">stop</i><span class="blue-text">libraries:</span> <span class="widget-jslibs widget-meta">ggplot2,ggflags</span>
-			<span class="widget-release-nr">3</span></p>
+			<span class="widget-release-nr">3</span>
 		</p>
 			<!-- <div class="more-icon activator"><i class="material-icons right">more_vert</i></div> -->
 			<div class="hidden widget-cran">true</div>
