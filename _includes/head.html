@@ -79,4 +79,9 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
   
+  <!-- Noindex Jekyll post -->
+  {% if page.noindex %}
+  <meta name="robots" content="noindex"/>
+  {% endif %}
+
 </head>
