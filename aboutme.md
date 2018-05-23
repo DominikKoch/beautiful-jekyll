@@ -41,23 +41,25 @@ I will be away until Sept 19 with absolutely no internet (or even cell phone sig
 </div>
 -->
 
-<p>You can <a href="mailto:data42science@gmail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">LinkedIn</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<!--
+	<p>You can <a href="mailto:data42science@gmail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">LinkedIn</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
 
-<form action="https://formspree.io/data42science@gmail.com" method="POST" class="form" id="contact-form">
-  <p>You can also send me a quick message using the form below:</p>
-  <div class="row">
-    <div class="col-xs-6">
-      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
-    </div>
-    <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
-    </div>
-  </div>
-  <input type="hidden" name="_subject" value="New submission from dominikkoch.github.io">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
-</form>
+	<form action="https://formspree.io/data42science@gmail.com" method="POST" class="form" id="contact-form">
+	  <p>You can also send me a quick message using the form below:</p>
+	  <div class="row">
+		<div class="col-xs-6">
+		  <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+		</div>
+		<div class="col-xs-6">
+		  <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+		</div>
+	  </div>
+	  <input type="hidden" name="_subject" value="New submission from dominikkoch.github.io">
+	  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+	  <input type="text" name="_gotcha" style="display:none">
+	  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+	  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+	</form>
+-->
 
 </div>
