@@ -41,9 +41,9 @@ I will be away until Sept 19 with absolutely no internet (or even cell phone sig
 </div>
 -->
 
-<!--
-	<p>You can <a href="mailto:data42science@gmail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">LinkedIn</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<p>You can <a href="mailto:data42science@gmail.com?subject=Hello from dominikkoch.github.io">email me</a> or find me on <a href="https://de.linkedin.com/in/dominik-koch-341a39100">LinkedIn</a> and <a href="https://www.xing.com/profile/Dominik_Koch20">Xing</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
 
+<!--
 	<form action="https://formspree.io/data42science@gmail.com" method="POST" class="form" id="contact-form">
 	  <p>You can also send me a quick message using the form below:</p>
 	  <div class="row">
